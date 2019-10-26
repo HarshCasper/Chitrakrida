@@ -1,5 +1,6 @@
 # Chitrakrida
-
+[![BCH compliance](https://bettercodehub.com/edge/badge/HarshCasper/Chitrakrida?branch=master)](https://bettercodehub.com/)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2bc6c9769dac4742bdfbfd82c8409d2e)](https://www.codacy.com/manual/HarshCasper/Chitrakrida?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/Chitrakrida&amp;utm_campaign=Badge_Grade)
 ## About 
 
 Chitrakrdia is Three-Dimensional First Person Shooter (Game) designed and rendered using HTML, CSS and Javascript Frameworks to render
